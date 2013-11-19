@@ -1,6 +1,6 @@
 {
   "name": "jsdom-xpath",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An interface to JSDOM's hidden XPath implementation.",
   "dependencies": {
     "jsdom": "~0.8.8"
