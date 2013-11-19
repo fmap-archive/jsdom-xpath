@@ -1,0 +1,16 @@
+{
+  "name": "jsdom-xpath",
+  "version": "0.0.0",
+  "description": "An interface to JSDOM's hidden XPath implementation.",
+  "dependencies": {
+    "jsdom": "~0.8.8"
+  },
+  "devDependencies": {
+    "grunt": "0.4.1",
+    "grunt-contrib-watch": "0.5.3",
+    "grunt-jasmine-node": "git://github.com/fmap/grunt-jasmine-node-multitask.git#multitask",
+    "grunt-contrib-jshint": "0.6.4",
+    "load-grunt-config": "0.5.0"
+  },
+  "main": "./lib/xpath"
+}
